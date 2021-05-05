@@ -1,4 +1,3 @@
-
 ## Setting Up Mac
 
 First, download xcode on https://apps.apple.com/jp/app/xcode/id497799835
