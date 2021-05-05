@@ -1,16 +1,20 @@
 #!bin/sh
 
-brew cask install google-chrome
+brew install google-chrome --cask
 
-brew cask install brave
+brew install brave --cask
 
-brew cask install opera
+brew install opera --cask
 
-brew cask install firefox
+brew install firefox --cask
 
-brew cask install docker
+brew install docker --cask
 
-brew cask install virtualbox
+brew install virtualbox --cask
+
+brew install emacs --cask
+
+brew install slack --cask
 
 
 
