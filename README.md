@@ -8,3 +8,14 @@ Second, download brew by executing the command $/bin/bash -c "$(curl -fsSL https
 $ sh set_up_mac.sh
 ```
 
+## Setting Up Vim Environment
+
+```
+$ python set_up_vim.py
+```
+
+## Setting Up Emacs Environment
+
+```
+$ python set_up_emacs.py
+```
