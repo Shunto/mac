@@ -14,10 +14,12 @@ brew install virtualbox --cask
 
 brew install pyenv
 
+brew install wget
+
 brew install emacs
 
 brew install slack --cask
 
-
+brew install 5kplayer --cask
 
 
