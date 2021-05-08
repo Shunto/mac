@@ -12,6 +12,10 @@ brew install docker --cask
 
 brew install virtualbox --cask
 
+brew install wireshark --cask
+
+brew install burp-suite --cask
+
 brew install pyenv
 
 brew install wget
