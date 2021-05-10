@@ -12,11 +12,17 @@ brew install docker --cask
 
 brew install virtualbox --cask
 
+brew install mactex --cask
+sudo tlmgkr update --self --all
+sudo tlmgr paper a4
+
 brew install wireshark --cask
 
 brew install burp-suite --cask
 
 brew install pyenv
+
+brew install pyenv-virtualenv
 
 brew install wget
 
