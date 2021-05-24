@@ -8,6 +8,8 @@ brew install opera --cask
 
 brew install firefox --cask
 
+brew install microsoft-edge --cask
+
 brew install docker --cask
 
 brew install virtualbox --cask
@@ -31,5 +33,7 @@ brew install emacs
 brew install slack --cask
 
 brew install 5kplayer --cask
+
+brew install elmedia-player --cask
 
 
