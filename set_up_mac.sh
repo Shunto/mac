@@ -26,6 +26,9 @@ brew install pyenv
 
 brew install pyenv-virtualenv
 
+brew install R
+brew install libxml2 ccache libgit2 unixodbc
+
 brew install wget
 
 brew install emacs
