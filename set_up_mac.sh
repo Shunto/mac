@@ -12,6 +12,8 @@ brew install microsoft-edge --cask
 
 brew install docker --cask
 
+brew install mysql
+
 brew install virtualbox --cask
 
 brew install mactex --cask
