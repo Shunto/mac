@@ -10,6 +10,8 @@ brew install firefox --cask
 
 brew install microsoft-edge --cask
 
+brew install tor-browser --cask
+
 brew install docker --cask
 
 brew install mysql
